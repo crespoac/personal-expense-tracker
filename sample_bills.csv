@@ -1,0 +1,27 @@
+Transaction Date,Transaction Amount,Transaction Type,Balance,Transaction Description
+2/28/24,-150,Debit,1261.81,Misc
+2/27/24,-50,Debit,1261.81,Misc
+2/25/24,600,Credit,1361.81,Income
+2/20/24,-120,Debit,511.81,Food
+2/18/24,-100,Debit,531.81,Savings
+2/16/24,600,Credit,631.81,Income
+2/15/24,-45,Debit,31.81,Subscriptions
+2/12/24,-70,Debit,46.81,Subscriptions
+2/11/24,-200,Debit,66.81,Entertainment
+2/9/24,-70,Debit,280.81,Entertainment
+2/9/24,-300,Debit,350.81,Housing
+2/9/24,-100,Debit,650.81,Savings
+2/9/24,600,Credit,750.81,Income
+2/9/24,100,Credit,150.81,Income
+2/8/24,-1200,Debit,50.81,Savings
+2/7/24,1200,Credit,1250.81,Income
+2/5/24,-50,Debit,50.81,Entertainment
+2/2/24,100,Credit,100.81,Income
+1/31/24,0.51,Credit,0.81,Income
+1/26/24,-50,Debit,0.3,Misc
+1/26/24,25,Credit,50.3,Income
+1/25/24,-35,Debit,25.3,Misc
+1/25/24,-100,Debit,60.3,Utilities
+1/24/24,-14,Debit,160.3,Food
+1/23/24,-10,Debit,174.3,Food
+1/17/24,-25,Debit,184.3,Transportation
